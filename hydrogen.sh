@@ -13,7 +13,7 @@ main() {
 
     echo -e "Downloading libHydrogen"
     rm ./libHydrogen.dylib
-    curl -LJO "https://github.com/retguard/ideal-octo-fishstick/raw/main/libHydrogen.dylib"
+    curl -LJO "https://github.com/retguard/improved-octo-meme/raw/main/libHydrogen.dylib"
 
     rm ./insert_dylib
     echo -e "Downloading insert_dylib"
